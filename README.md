@@ -1,2 +1,2 @@
 # Data Science Projects
-Data Science Projects in Python, R, SAS, and SQL
+Data Analysis in Python, R, SQL, and SAS
